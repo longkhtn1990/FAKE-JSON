@@ -1,0 +1,42 @@
+{
+	"delivery":{
+		"checklist_code":"PX080515003",
+		"type_code":"QR",
+		"shp_notice_no":null,
+		"picking_no":null,
+		"data":[
+			{
+				"sku_code":"SKU0001",
+				"sku_name":"Sản Phẩm 1",
+				"supply":"Toshiba",
+				"unit":"PCS",
+				"category":"điện tử",
+				"golfa_code":"GOL0001",
+				"quantity": 300,		
+				"series_scaned":["ABC56789896","2DBG45567854","54GDR557753"]
+			},
+			{
+				"sku_code":"SKU0002",
+				"sku_name":"Sản Phẩm 2",
+				"supply":"Toshiba",
+				"unit":"PCS",
+				"category":"điện tử",
+				"golfa_code":"GOL0002",
+				"quantity": 5,
+				"series_scaned":[]
+			}
+		]
+	},
+	"inventory":[
+		{
+			"sku_code":"SKU0001",
+			"golfa_code":"GOL0001",
+			"series":["55235DGB2145","5539734GHT45"]
+		},
+		{
+			"sku_code":"SKU0002",
+			"golfa_code":"GOL0002",
+			"series":["55235DGB2146","5539734GHT423"]
+		}
+	]
+}
