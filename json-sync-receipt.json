@@ -2,7 +2,6 @@
 	"checklist_code":"PN080515003",
 	"type":"receipt",
 	"user_id":"agsagasgaaffa",
-	"date_time":"2018-04-20 14:20:00",
 	"data":[
 		{
 			"sku_code":"SKU0001",
@@ -13,7 +12,8 @@
 					"works_code":null,
 					"origin_code":null,
 					"product_code":null,
-					"full_code":"du lieu quet tho tu QR"
+					"full_code":"du lieu quet tho tu QR",
+					"date_time":"2018-04-20 14:20:00"
 				},
 				{
 					"series_code":"ABC56789886",
@@ -21,7 +21,8 @@
 					"works_code":"1241414",
 					"origin_code":null,
 					"product_code":null,
-					"full_code":"du lieu quet tho tu QR"
+					"full_code":"du lieu quet tho tu QR",
+					"date_time":"2018-04-20 14:20:00"
 				}
 			]
 		},
@@ -34,7 +35,8 @@
 					"works_code":null,
 					"origin_code":null,
 					"product_code":null,
-					"full_code":"du lieu quet tho tu QR"
+					"full_code":"du lieu quet tho tu QR",
+					"date_time":"2018-04-20 14:20:00"
 				},
 				{
 					"series_code":"ABC56723486",
@@ -42,7 +44,8 @@
 					"works_code":"1241414",
 					"origin_code":null,
 					"product_code":null,
-					"full_code":"du lieu quet tho tu QR"
+					"full_code":"du lieu quet tho tu QR",
+					"date_time":"2018-04-20 14:20:00"
 				}
 			]
 		},
