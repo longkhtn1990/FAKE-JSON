@@ -13,7 +13,7 @@
 				"category":"điện tử",
 				"golfa_code":"GOL0001",
 				"quantity": 300,		
-				"series_scaned":["ABC56789896","2DBG45567854","54GDR557753"]
+				"series_scanned":["ABC56789896","2DBG45567854","54GDR557753"]
 			},
 			{
 				"sku_code":"SKU0002",
@@ -23,7 +23,7 @@
 				"category":"điện tử",
 				"golfa_code":"GOL0002",
 				"quantity": 5,
-				"series_scaned":[]
+				"series_scanned":[]
 			}
 		]
 	},
