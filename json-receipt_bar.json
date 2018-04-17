@@ -1,0 +1,44 @@
+{
+	"receipt":{
+		"checklist_code":"PN080515003",
+		"type_code":"BAR",
+		"shp_notice_no":"26556656232552",
+		"picking_no":"66233666552",
+		"data":[
+			{
+				"sku_code":"SKU0001",
+				"sku_name":"Sản Phẩm 1",
+				"supply":"Toshiba",
+				"unit":"PCS",
+				"category":"điện tử",
+				"golfa_code":"GOL0001",
+				"quanlity_total": 300,
+				"series_supply":[],
+				"series_scaned":["ABC56789896","2DBG45567854","54GDR557753"]
+			},
+			{
+				"sku_code":"SKU0002",
+				"sku_name":"Sản Phẩm 2",
+				"supply":"Toshiba",
+				"unit":"PCS",
+				"category":"điện tử",
+				"golfa_code":"GOL0002",
+				"quanlity_total": 5,
+				"series_supply":["ABC56789896","2DBG45567854","54GDR557753","5SDG56749332","33DGV556743"],
+				"series_scaned":[]
+			}
+		]
+	},
+	"inventory":[
+		{
+			"sku_code":"SKU0001",
+			"golfa_code":"GOL0001",
+			"series":["55235DGB2145","5539734GHT45"]
+		},
+		{
+			"sku_code":"SKU0002",
+			"golfa_code":"GOL0002",
+			"series":["55235DGB2146","5539734GHT423"]
+		}
+	]
+}
