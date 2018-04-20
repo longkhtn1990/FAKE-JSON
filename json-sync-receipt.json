@@ -13,7 +13,8 @@
 					"origin_code":null,
 					"product_code":null,
 					"full_code":"du lieu quet tho tu QR",
-					"date_time":"2018-04-20 14:20:00"
+					"date_time":"2018-04-20 14:20:00",
+					"status":"sound"
 				},
 				{
 					"series_code":"ABC56789886",
@@ -22,7 +23,8 @@
 					"origin_code":null,
 					"product_code":null,
 					"full_code":"du lieu quet tho tu QR",
-					"date_time":"2018-04-20 14:20:00"
+					"date_time":"2018-04-20 14:20:00",
+					"status":"damaged"
 				}
 			]
 		},
@@ -36,7 +38,8 @@
 					"origin_code":null,
 					"product_code":null,
 					"full_code":"du lieu quet tho tu QR",
-					"date_time":"2018-04-20 14:20:00"
+					"date_time":"2018-04-20 14:20:00",
+					"status":"sound"
 				},
 				{
 					"series_code":"ABC56723486",
@@ -45,7 +48,8 @@
 					"origin_code":null,
 					"product_code":null,
 					"full_code":"du lieu quet tho tu QR",
-					"date_time":"2018-04-20 14:20:00"
+					"date_time":"2018-04-20 14:20:00",
+					"status":"sound"
 				}
 			]
 		},
